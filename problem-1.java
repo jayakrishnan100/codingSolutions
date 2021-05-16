@@ -10,8 +10,6 @@ Solution:*/
 import java.util.Arrays;
 
 public class Main {
-//sort a array containing 0, 1 and 2
-//three-way Partitioning
   public static int[] Sort012(int[] arr) {
     int low = 0, high = arr.length - 1;
 		int i = 0;
