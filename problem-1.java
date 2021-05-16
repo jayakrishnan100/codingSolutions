@@ -1,10 +1,11 @@
-Array consist of only 0's, 1's and 2's. Write an algorithm to sort  this array in O(n) time complexity and O(1) Space complexity with only one traversal 
+/*Array consist of only 0's, 1's and 2's. Write an algorithm to sort  this array in O(n) time complexity and O(1) Space complexity with only one traversal 
 
 Modify array so that it becomes : [0 0 1 1 2 2]
 Hint1 : You are not suppose to use any extra space
 Hint2 : You need change the same array with single traversal with O(n) time complexity
 
-Solution:
+Solution:*/
+
 
 import java.util.Arrays;
 
